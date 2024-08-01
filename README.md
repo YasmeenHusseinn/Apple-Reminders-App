@@ -1,6 +1,6 @@
 # Reminders App
-# Yasmeen Hussein
-# Jan 2024
+### Yasmeen Hussein
+### Jan 2024
 
 Recreated Reminders App on Iphone
 
